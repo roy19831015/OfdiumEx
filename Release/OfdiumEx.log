@@ -1,0 +1,92 @@
+﻿生成启动时间为 2020-10-22 15:59:20。
+     1>项目“E:\OfdiumEx\OfdiumEx\OfdiumEx.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D OFDIUMEX_EXPORTS /D _USING_V110_SDK71_ /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\OfdiumEx.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OFDParser.cpp OfdiumEx.cpp
+         OFDParser.cpp
+         OfdiumEx.cpp
+     1>OfdiumEx.cpp(2304): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2304): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2306): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2306): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2308): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2308): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2310): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2310): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2315): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2315): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2317): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2317): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2319): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2319): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2321): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>OfdiumEx.cpp(2321): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2345): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>OfdiumEx.cpp(2463): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>OfdiumEx.cpp(2495): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>OfdiumEx.cpp(2496): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>OfdiumEx.cpp(2526): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>OfdiumEx.cpp(2548): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>OfdiumEx.cpp(2549): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>OfdiumEx.cpp(2605): warning C4018: “>”: 有符号/无符号不匹配
+     1>OfdiumEx.cpp(2683): warning C4018: “>”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OfdiumEx\Release\OfdiumEx.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" /DEF:"OfdiumEx.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\OfdiumEx\Release\OfdiumEx.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OfdiumEx\Release\OfdiumEx.lib" /MACHINE:X86 /SAFESEH /DLL Release\base64.obj
+         Release\OfdiumEx.obj
+         Release\OFDParser.obj
+         Release\pugixml.obj
+         Release\RefCounter.obj
+         Release\stdafx.obj
+         Release\util.obj
+         Release\ziptool.obj
+            正在创建库 E:\OfdiumEx\Release\OfdiumEx.lib 和对象 E:\OfdiumEx\Release\OfdiumEx.exp
+         正在生成代码
+         已完成代码的生成
+     1>jbig2dec.lib(jbig2.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_page.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_page.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_segment.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_segment.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_image.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_image.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_halftone.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_halftone.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_metadata.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_metadata.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_huffman.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_huffman.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_symbol_dict.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_symbol_dict.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_refinement.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_refinement.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_generic.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_generic.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_text.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_text.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_mmr.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_mmr.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_arith.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_arith.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_arith_iaid.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_arith_iaid.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>jbig2dec.lib(jbig2_arith_int.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“jbig2dec.lib(jbig2_arith_int.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(ZLibWrapLib.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(ZLibWrapLib.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(stdafx.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(Encoding.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(Encoding.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(zip.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(zip.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(unzip.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(unzip.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(ioapi.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(ioapi.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(crc32.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(crc32.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(deflate.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(deflate.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(inflate.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(inflate.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(trees.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(trees.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(adler32.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(adler32.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(zutil.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(zutil.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(inffast.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(inffast.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ZlibWraplib.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“ZlibWraplib.lib(inftrees.obj)”或在“E:\OfdiumEx\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         OfdiumEx.vcxproj -> E:\OfdiumEx\Release\OfdiumEx.dll
+     1>已完成生成项目“E:\OfdiumEx\OfdiumEx\OfdiumEx.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.07
